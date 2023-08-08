@@ -1,0 +1,14 @@
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\bin\Debug\PROYECTO_REPORTE_2023.exe.config
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\bin\Debug\PROYECTO_REPORTE_2023.exe
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\bin\Debug\PROYECTO_REPORTE_2023.pdb
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.csproj.AssemblyReference.cache
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.Form1.resources
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.Properties.Resources.resources
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.csproj.GenerateResource.cache
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.csproj.CoreCompileInputs.cache
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.exe
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.pdb
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\bin\Debug\BE.dll
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\bin\Debug\BE.pdb
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\PROYECTO_REPORTE_2023\obj\Debug\PROYECTO_REPORTE_2023.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\BE\bin\Debug\BE.dll
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\BE\bin\Debug\BE.pdb
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\BE\obj\Debug\BE.dll
+C:\Users\de_or\source\repos\PROYECTO_REPORTE_2023\BE\obj\Debug\BE.pdb
